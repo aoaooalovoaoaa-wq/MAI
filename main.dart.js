@@ -27803,7 +27803,7 @@ $S:2}
 A.asc.prototype={
 $1(a){var s=A.cL().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/af7e796e161ae0bb1ff0758c71a7105418bd9ded/":s)+a},
+return(s==null?"canvaskit/":s)+a},
 $S:130}
 A.Li.prototype={
 gA(a){var s=this.a
